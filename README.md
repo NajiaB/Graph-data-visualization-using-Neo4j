@@ -16,6 +16,6 @@ schema :
 
 THIRD STEP : query the DB with CYPHER requests 
 
-Fourth strep : Visualization using matplotlib
+Fourth strep : Visualization using matplotlib/ Bloom
 
 LAST STEP : Machine learning with Graph Data Science ==> Link detection (supervised) and community detection (unsupervised).
