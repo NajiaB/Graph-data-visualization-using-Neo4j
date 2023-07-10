@@ -14,8 +14,8 @@ schema :
 ![image](https://github.com/NajiaB/Graph-data-visualization-using-Neo4j/assets/113135809/0248fe0b-c99d-4585-846a-3d18e516dfd9)
 
 
-THIRD STEP : Interrogating the DB with CYPHER requests 
+THIRD STEP : query the DB with CYPHER requests 
 
-Fourth strep : Visualization
+Fourth strep : Visualization using matplotlib
 
 LAST STEP : Machine learning with Graph Data Science ==> Link detection (supervised) and community detection (unsupervised).
